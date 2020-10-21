@@ -1,0 +1,3 @@
+C:/Users/Owner/Desktop/PI-lab0710/pi-ci/cmake-build-debug/CMakeFiles/pi_ci.dir
+C:/Users/Owner/Desktop/PI-lab0710/pi-ci/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Owner/Desktop/PI-lab0710/pi-ci/cmake-build-debug/CMakeFiles/rebuild_cache.dir
