@@ -53,7 +53,7 @@ deploy:
     overwrite:    true
 
     api_key:
-        secure:   <!!!encrypted-github-token!!!>
+        secure:   "LfpuujsZly//QJ17/12K5fYWptqMRpSs21I3d4D1dFEaVvz8V8ft6MybYxgOG2RLQnw+8J42qGq65bQ8UpAXi18/U3UqR5R5xkzgyPJgTJQFDIhsaOivQxcTdhKqR71GHEZEwgQYb/B5tqg4LxZLh1Yov1JlSBhPqo4pUhw9gu3kKAzPuNqrrZqSESOsq6yFmlXTnimJfPyosrbGDNMagNUTIqVSSB3utzUQk9SYDco8/Z2O8DWn4fpzDJdEFE/xzR0HooGgiC+GHacvu1vNjdY/dHl6W2MjFHMzHCDJYb2REn91KjCX1AAkAxulTq0rgKX9ljpld5lXKXLxg7uCr47//cYx7gpH2+EtAHtUpyBz+5/grcSpgZNq0PHyQB2h6zp5UwrpK7hQ10eUL6ECSHnoUpBFgcxb4o5CLxFK8ShpejiELb05n6UZPkZxtVRuZeQs4+5KBV9mkViB3W1CSzj4Hyk8BC88zEaiPK9wHYhubo1VJMl+HnvG0JYkW6OlK3ef7T4dkYNWvNLjHHcowFCXCh2Qxo4I9c4ntn6TahNQiYkZeJbivmznSkETth8t2y9O2RfWrLWfe6iLUatyPCaIEJucpQcPRbqO5+oRCkWiYJV/QtM/Natqorb0iCO2UFX5lwA1YMbALQ9Up/eJ9OZMpwtCs9WlDIUbEQaW1B8="
 
     on:
         tags:     true
